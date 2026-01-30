@@ -1,0 +1,3 @@
+The Student Risk Prediction System is an intelligent, web-based application developed to identify students who are at risk of academic failure using data mining and machine learning techniques. The system analyzes student performance and background information such as academic scores, demographic attributes, parental education level, lunch type, and test preparation status to detect hidden patterns and classify students into risk categories.
+
+The application provides an interactive dashboard where users can explore student data through visual analytics and predict the academic risk level of a student in real time. This helps educational institutions perform early intervention, improve learning outcomes, and support data-driven academic decision-making.
